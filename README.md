@@ -4,4 +4,5 @@ My journey at learnig bash scripting to get better at ricing. I will list my res
 
 
 # References 
-[freeCodeCamp Video] (https://www.youtube.com/watch?v=tK9Oc6AEnR4&list=LL&index=2&t=11s)
+[freeCodeCamp Video](https://www.youtube.com/watch?v=tK9Oc6AEnR4&list=LL&index=2&t=11s)
+
